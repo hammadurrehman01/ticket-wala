@@ -1,0 +1,87 @@
+.noti-icon .badge {
+  left: 23px;
+}
+.mt-2 {
+  margin-top: 20px !important;
+}
+
+.dataTables_filter,
+.dataTables_paginate {
+  float: right;
+}
+
+.rdw-editor-main {
+  border: 1px solid #eeeef5;
+  height: 239px;
+}
+.dz-message {
+  text-align: center;
+  padding: 100px;
+}
+.fcYNFc {
+  background-color: #ffffff !important;
+}
+.task-box {
+  border: 1px solid #e1e1e6;
+}
+.react-datepicker-wrapper {
+  width: 100% !important;
+}
+
+.ReactModal__Overlay {
+  z-index: 1001 !important;
+}
+
+.fc-event .fc-content {
+  padding: 5px;
+  color: #fff;
+}
+.chat-conversation .right .conversation-list {
+  margin-right: 15px;
+}
+
+.external-event {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.rangeslider-horizontal .rangeslider__fill {
+  background-color: #7cb342 !important;
+}
+
+
+
+/* SELECT 2 */
+.select2-container .select2-selection__control {background: #2e3548;border: 1px solid #32394e;}
+.select2-container .select2-selection__control *{color:#bfc8e2;}
+.select2-container .select2-selection__menu {background:#222530;z-index: 99;}
+
+
+/* TABLE GRID */
+.card .MuiPaper-root {border:0;background-color: #2e3548;background-clip: padding-box;border: 1px solid #32394e;}
+.card .MuiPaper-root > .MuiToolbar-root {display:none;}
+.card .MuiPaper-root .MuiTableCell-head {background:transparent; color:#fff; border-color:#52596b;}
+.card .MuiPaper-root .MuiTableRow-root {color: #bfc8e2;}
+.card .MuiPaper-root .MuiTableCell-body {color: #bfc8e2;border-color: #52596b;}
+.card .MuiPaper-root .MuiIconButton-root, .MuiPaper-root .MuiIconButton-root.Mui-disabled, .MuiPaper-root .MuiTypography-caption {color:#bfc8e2;}
+.card .MuiPaper-root .MuiIconButton-root.Mui-disabled {opacity:0.3}
+.card .MuiTable-root {border:0;}
+
+
+.MuiTableRow-root .MuiTablePagination-root {border-bottom: 0;}
+
+/*   EDIT SCHEDULE  */
+::-webkit-calendar-picker-indicator {filter: invert(1);}
+
+/*   ADD SCHEDULE  */
+.select2-container label{margin-top: 10px;}
+.button-items .btn-secondary1{border: 1px solid grey;background-color: #2a3042;margin-bottom: 13px;color: #fff;height: 33px;font-size: 12px;margin-top: 0px !important;}
+.button-items .btn-primary{margin-top: 0px;}
+
+/*   STOPS   */
+
+/*  TRiP PLANNER  */
+
+.btn-danger{position: absolute !important;right: -5px !important;top: 14px !important;margin-left:0px !important;}
+.select2-selection__multi-value__label{color: grey !important;}
